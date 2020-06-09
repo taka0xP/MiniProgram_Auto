@@ -1,0 +1,10 @@
+{
+    "start": 1561118903.5569017,
+    "script": "company\\company_search.air",
+    "tests": {
+        "59ea8978": {
+            "status": 0,
+            "path": "company\\company_search.air\\log\\59ea8978\\log.html"
+        }
+    }
+}
